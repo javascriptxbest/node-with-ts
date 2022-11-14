@@ -1,0 +1,5 @@
+.DS_Store
+*_nginx.conf
+node_modules
+log
+dist
